@@ -9,4 +9,4 @@ Each generation, the cube that did the best creates future cubes that are all si
 
 To run this project, run 'main.py' with PyGame running on Python3.
 
-Original creation: January, 2022
+Original creation: January 2022
