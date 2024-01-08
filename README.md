@@ -8,3 +8,5 @@ This project simulates many cubes trying to get to randomly appearing food items
 Each generation, the cube that did the best creates future cubes that are all similar to it (+/-20% in each trait). This repeats indefinitely.
 
 To run this project, run 'main.py' with PyGame running on Python3.
+
+Original creation: January, 2022
